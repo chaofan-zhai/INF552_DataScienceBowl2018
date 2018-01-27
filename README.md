@@ -7,7 +7,7 @@ Course project for USC INF 552 Machine Learning for Data Informatics
 
 ## Authors
 * [**Vishal Seshagiri**](https://github.com/vishalseshagiri)
-* [**Chao Fan Zhai**]()
+* [**Chao Fan Zhai**](https://github.com/chaofan-zhai)
 * [**Dubem Nwoji**](https://github.com/Chukudubem)
 
 ## License
